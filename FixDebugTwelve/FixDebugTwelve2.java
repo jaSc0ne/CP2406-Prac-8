@@ -4,7 +4,7 @@
 
 public class FixDebugTwelve2 {
     public static void main(String args[]){
-        byte num1 = 120, num2 = 120, result;
+        byte num1 = 7, num2 = 120, result;
         final byte HIGHBYTE = 127;
         try{
             byte allowed = (byte)(HIGHBYTE - num1);
